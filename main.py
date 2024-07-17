@@ -14,7 +14,7 @@ def car_race():
                 car = Car(model, wheel_model)  
             else:
                 print("Invalid wheel model selection.")
-                continue
+                cont
         else:
             print("Invalid car model selection.")
             continue
